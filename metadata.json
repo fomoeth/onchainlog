@@ -1,0 +1,6 @@
+{
+  "name": "Remix: ONCHAINLOG",
+  "description": "A technical event logger for Telegram Mini App users, tracking activities with an on-chain aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
